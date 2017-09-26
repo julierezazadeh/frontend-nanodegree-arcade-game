@@ -1,3 +1,9 @@
 body {
     text-align: center;
+	font-family: 'Quicksand', sans-serif;
 }
+
+div {
+	display: inline;
+}
+
